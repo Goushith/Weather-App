@@ -1,0 +1,28 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+ 
+body{
+    background-image: url(pexels-ming-sun-814449.jpg);
+    background-size:auto;
+}
+
+
+.banner {
+    color: #3e3000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input:not([type="radio"]):not([type="checkbox"]), button {
+	appearance: none;
+	border: none;
+	outline: none;
+	background: none;
+	cursor: initial;
+}
+
+.mb-4{
+width: 500px;
+color: aliceblue;
+}
